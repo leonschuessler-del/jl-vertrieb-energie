@@ -23,9 +23,9 @@ export const metadata: Metadata = {
     "codex-preview": "development",
   },
   icons: {
-    icon: "/media/jl-logo.png",
-    shortcut: "/media/jl-logo.png",
-    apple: "/media/jl-logo.png",
+    icon: "/media/jl-logo.svg",
+    shortcut: "/media/jl-logo.svg",
+    apple: "/media/jl-logo.svg",
   },
 };
 
